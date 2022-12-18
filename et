@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Emtech Group Project</title>
+    <title>Emtech Video Project</title>
 
     <style>
    
@@ -26,7 +26,7 @@ body{
   color: rgb(255, 255, 255);
 }
 nav{
-  background: rgba(0, 81, 255, 0.5);
+  background: rgba(16, 61, 156, 0.5);
   height: 80px;
   width: 100%;
 }
@@ -124,8 +124,8 @@ nav .menu{
   
     <label class="logo">E.M Tech| Video Project</label>
     <ul>
-      <li><a href="https://youtu.be/dQw4w9WgXcQ?t=7" target="_blank">Raw Element Link</a></li>
-      <li><a href="https://youtu.be/dQw4w9WgXcQ?t=7">Brightspace Link (E.T)</a></li>
+      <li><a href="https://github.com/kRivadillo/Codes/blob/main/et" target="_blank">Raw Element Link</a></li>
+      <li><a href="https://drive.google.com/drive/folders/17VpbPtnMlG367TtDg2mTAt17AJjex2Gb">G-Drive Link</a></li>
 
       
     </ul>
@@ -134,9 +134,9 @@ nav .menu{
   <br>
   <br>
   <br>
-  <h1 style="color:rgb(255, 255, 255); font-size: 44px;">Reflect</h1>
+  <h1 style="color:rgb(255, 255, 255); font-size: 44px;">Project</h1>
   <br>
-  <iframe width="1422" height="610" src="https://www.youtube.com/embed/nCQ_zZIiGLA" title="REFLECT - Gawr Gura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="1048" height="524" src="https://www.youtube.com/embed/AM3X7Q3Buc0" title="Et project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   <br>
 </body>
@@ -148,7 +148,7 @@ nav .menu{
   <br>
   <footer>
     <br>
-    <p style="color:rgb(255, 255, 255); "><strong>© Webpage by Group Basti</strong></p>
+    <p style="color:rgb(255, 255, 255); "><strong>© Webpage by Kurt Rivadillo</strong></p>
     
  </footer>
 
