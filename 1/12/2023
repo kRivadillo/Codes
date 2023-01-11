@@ -1,0 +1,294 @@
+
+    <DOCTYPE html>
+        <html>
+        
+             <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Rivadillo</title>
+            <RIVADILLO></RIVADILLO>
+            <style>
+                
+       body {
+          background-color: rgb(0, 0, 0);
+          background-repeat: no-repeat;
+          background-attachment: fixed; 
+          background-size: cover;
+          overflow: scroll;
+          overflow-x: hidden;
+        
+        }
+        ::-webkit-scrollbar {
+        width: 0px; 
+        
+        }
+        
+      
+        body {
+          text-align: center;
+          font-family:'Franklin Gothic Medium';
+        
+        }
+        
+        h1 {
+          border: 2px solid rgba(0, 0, 0, 0.048);
+          margin: auto;  
+          padding: 102px;
+          text-align: center;
+          font-size: 88px;
+          color: rgb(240, 69, 69);
+          font-family:Cambria;
+          text-shadow: 6px 5px rgba(19, 1, 1, 0.774);
+        
+        }
+        
+        h2 {
+            color: rgba(0, 0, 0, 0.842);
+            margin: auto;  
+          padding: 102px;
+          text-align: center;
+          font-size: 88px;
+          color: rgb(240, 69, 69);
+          font-family:Cambria;
+          text-shadow: 6px 5px rgba(19, 1, 1, 0.774);
+        }
+        #myid {
+ font-size: 22px;
+ background-color: rgba(0, 255, 255, 0.103);
+}
+
+        
+        h3 {
+            color: rgba(209, 226, 233, 0.842);
+          margin: auto;  
+          padding: 20px;
+          text-align: center;
+          font-size: 44px;
+          text-shadow: 2px 2px rgba(2, 30, 48, 0.918);
+        }
+        
+        p {
+          color: rgb(255, 255, 255);
+          background-color: rgba(252, 222, 222, 0.541);
+          font-size:22px;
+          margin: 50px;  
+          padding: 45px;
+          text-align: center;
+          text-shadow: 2px 2px rgb(26, 25, 25);
+        
+        }
+        
+        a {
+  text-decoration: none;
+  color: #000000;
+}
+
+        .Div {
+          background-image: url('https://wallpapercave.com/wp/wp4363669.jpg');
+          background-repeat: no-repeat;
+          background-attachment: fixed; 
+          background-size: cover;
+        
+        }
+
+        .Div2 {
+          background-image: url("https://wallpaperaccess.com/full/5025150.jpg");
+          background-repeat: no-repeat;
+          background-attachment: fixed; 
+          background-size: cover;
+        }
+
+       
+        .Div3 {
+          background-image: url("https://wallpapercave.com/wp/wp4892342.jpg");
+          background-repeat: no-repeat;
+          background-attachment: fixed; 
+          background-size: cover;
+        }
+
+        .Div4 {
+          background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7861c4da-6cc8-44de-8650-bb16a847cc99/d7pq9b3-943ee0e2-e184-4ce5-8deb-b73783c73ab1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4NjFjNGRhLTZjYzgtNDRkZS04NjUwLWJiMTZhODQ3Y2M5OVwvZDdwcTliMy05NDNlZTBlMi1lMTg0LTRjZTUtOGRlYi1iNzM3ODNjNzNhYjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gN4vPs-boV2mnOoC_wqLKxf8E4VryyHCzU5tMoycNz4");
+          background-repeat: no-repeat;
+          background-attachment: fixed; 
+          background-size: cover;
+        }
+
+        .Div5 {
+          background-image: url("https://wallpapercave.com/wp/wp4790700.jpg");
+          background-repeat: no-repeat;
+          background-attachment: fixed; 
+          background-size: cover;
+        }
+
+        .Div6 {
+          background-image: url("https://wallpapercave.com/wp/wp5637944.jpg");
+          background-repeat: no-repeat;
+          background-attachment: fixed; 
+          background-size: cover;
+        }
+        /* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: yellow;
+}
+
+/* mouse over link */
+a:hover {
+  color: purple;
+}
+
+/* selected link */
+a:active {
+  color: purple;
+}
+
+nav {
+color:rgb(226, 233, 214);
+position: fixed;
+bottom: 0;
+width: calc(100% - 100px);
+overflow: auto;
+
+}
+    
+.nav {
+float:center;
+text-align:center;
+padding:10px;
+text-decoration:none;
+font-size:14px;
+}
+ nav a:link, nav a:visited {
+ color:rgb(226, 233, 214);
+ background-color:rgba(0, 0, 0, 0.404);
+}
+
+ nav a:hover, nav a:active {
+ color:rgb(226, 233, 214);
+background-color:rgb(0, 0, 0);
+}
+
+@media (max-width: 600px) {
+.right, .left {
+width: 100%;
+height: auto;
+} 
+                
+ .nav {
+font-size:18px;
+}
+}
+
+
+            </style>
+        <RIVADILLO>
+        <head>
+        
+        </head>
+        <nav>
+        <a href="#" class="nav">Jump to Top</a>
+        <a href="#Artificial Intelligence" class="nav">Artificial Intelligence</a>
+        <a href="#Cryptocurrency" class="nav">Cryptocurrency</a>
+        <a href="#Virtual Reality And Augmented Reality" class="nav">Virtual Reality And Augmented Reality</a>
+        <a href="#Edge Computing and Quantum Computing" class="nav">Edge Computing and Quantum Computing</a>
+        <a href="#5G Technology" class="nav">5G Technology</a>
+
+          </nav>
+        <body>
+        
+            <div class="Div">
+                <br>
+                <br> <br> <br><br>
+                <br> <br> <br><br>
+                <br> <br> <br><br>
+               
+        
+            <h3>“Technology is a useful servant but a dangerous master.”
+                <br><br>
+                -Christian Lous Lange, Historian</h3>
+           <br> <br><br>
+           <br> <br> <br><br>
+           <br> <br> <br><br>
+           <br> <br> <br><br>
+           <br> <br> <br><br>
+        
+      
+           </div>
+        
+        
+        </body>
+        <footer></footer>
+         <div class="right" id="Artificial Intelligence"></div>
+    <div class="Div2">
+        
+      <h1 style="color:rgba(23, 235, 235, 0.74) ;">Artificial Intelligence</h1>
+    <p>the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.</p>
+    <p id="myid">Ai</p>
+    <img src="https://imageio.forbes.com/specials-images/imageserve/628b8de7a18d8436b8782e88/Artificial-intelligence-robot-control-futuristic-data-screen/960x0.jpg?format=jpg&width=960" alt="me" class="center" width="500" height="400">
+    <a href="https://imageio.forbes.com/specials-images/imageserve/628b8de7a18d8436b8782e88/Artificial-intelligence-robot-control-futuristic-data-screen/960x0.jpg?format=jpg&width=960">Image Link</a>
+    <br>
+
+
+<br><br>
+<br>
+</div>
+
+<div class="Div3">
+  <div class="right" id="Cryptocurrency"></div>
+  <h1 style="color: rgba(243, 243, 232, 0.918) ;">Cryptocurrency</h1>
+  
+  <p>a digital currency in which transactions are verified and records maintained by a decentralized system using cryptography, rather than by a centralized authority.</p>
+  <img src="https://www.kaspersky.com/content/en-global/images/repository/isc/2021/cryptocurrency_image1_1130490519_670x377px_300dpi.jpg" alt="me" class="center" width="500" height="400">
+ <br><br><br><br><br><br>
+</div>
+
+<div class="Div4">
+  <div class="right" id="Virtual Reality And Augmented Reality"></div>
+<h1 style="color:rgb(90, 89, 90) ; font-size: 90px;">Virtual Reality And Augmented Reality</h1>
+
+<p style="color: #000000 ; text-shadow: none;">AR uses a real-world setting while VR is completely virtual. AR users can control their presence in the real world; VR users are controlled by the system. VR requires a headset device, but AR can be accessed with a smartphone. AR enhances both the virtual and real world while VR only enhances a fictional reality.</p>
+
+<br> <br> <br>
+<br> <br> <br>
+<br> <br> <br>
+<br> <br> <br>
+<br> <br> <br>
+<br> <br> <br></div>
+
+
+<div class="Div5">
+  <div class="right" id="Edge Computing and Quantum Computing"></div>
+<h1 style="color: rgba(201, 13, 13, 0.89);">Edge Computing and Quantum Computing</h1>
+
+<p>Edge computing is a distributed computing framework that brings computation and data storage closer to the data source. Using edge computing can strengthen businesses. It also brings significant benefits such as faster insights, improved response times, and enhanced bandwidth availability. In addition, implementing edge computing ensures data security, which is crucial in today’s world as businesses are prone to attacks from malicious hackers or other activities online.
+<br>
+    Edge computing uses encryption to secure any data traversing the network back to the cloud or data center. An advantage of edge computing is that it circumvents the delays caused by cloud computing and gets data to data centers for processing as quickly as possible. Edge computing can process time-sensitive data in remote locations with limited or no connectivity to a centralized location.</p>
+
+<br><br><br>
+<br><br><br><br><br><br><br><br><br><br> <br> <br><br> <br> <br><br>  <br> <br><br> <br> <br><br> <br> <br><br> <br> <br>
+
+</div>
+
+<div class="Div6">
+  <div class="right" id="5G Technology"></div>
+<h1 style="color: teal;">5G Technology</h1>
+
+
+<p>5G wireless technology is meant to deliver higher multi-Gbps peak data speeds, ultra low latency, more reliability, massive network capacity, increased availability, and a more uniform user experience to more users. Higher performance and improved efficiency empower new user experiences and connects new industries.</p>
+  <img src="https://i.pcmag.com/imagery/articles/01BGW1evAIWa3DvjJdSWRaJ-34..v1629994908.jpg" alt="me" class="center" width="500" height="400">
+<br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br><br> <br> <br><br> <br> <br><br> <br> <br>
+</div>
+
+<RIVADILLO>
+<br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br>
+<marquee>
+<h3>Webpage by Rivadillo</h3>
+</marquee>
+</div>
+
+
+
+</body>
+<div class="right" id="Website Layout"></div>
